@@ -1,0 +1,9 @@
+###< software ###
+.idea
+###> software ###
+
+###< composer ###
+/vendor
+###> composer ###
+
+/resources

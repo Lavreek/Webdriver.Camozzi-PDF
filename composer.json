@@ -1,0 +1,18 @@
+{
+    "name": "lavreek/camozzi-pdf",
+    "autoload": {
+        "psr-4": {
+            "Camozzi\\": "",
+            "Camozzi\\Control\\": "camozzi/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lavreek",
+            "email": "lavreeksolacki@yandex.ru"
+        }
+    ],
+    "require": {
+        "php-webdriver/webdriver": "^1.14"
+    }
+}
